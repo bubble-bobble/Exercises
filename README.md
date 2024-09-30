@@ -1,4 +1,4 @@
-# Resolución de ejercicios
+# Resolution of exercises
 These exercises are related to computer logic, algorithmics, data structures, among others.
 ## Algorithms
 Using a console project and a unit test project, with the following technologies:
