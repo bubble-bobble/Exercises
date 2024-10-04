@@ -8,4 +8,5 @@ Using a console project and a unit test project, with the following technologies
 1) Do i get bonus, [Problem](/Exercises.Algorithms/Codewars/DoIGetBonus/DoIGetBonus.md)
 2) Abbreviate a two word name [Problem](/Exercises.Algorithms/Codewars/AbbreviateATwoWordName/AbbreviateATwoWordName.md)
 3) List filtering [Problem](/Exercises.Algorithms/Codewars/ListFiltering/ListFiltering.md)
-4) Convert string to array [Problem](Exercises.Algorithms/Codewars/ConvertStringToArray/ConvertStringToArray.md)
+4) Convert string to array [Problem](/Exercises.Algorithms/Codewars/ConvertStringToArray/ConvertStringToArray.md)
+5) Total amount of points [Problem](/Exercises.Algorithms/Codewars/TotalAmountOfPoints/TotalAmountOfPoints.md)
